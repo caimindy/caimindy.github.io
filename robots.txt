@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Akiiirra.github.io/sitemap.xml
+Sitemap: https://caimindy.github.io/sitemap.xml
