@@ -126,7 +126,7 @@
     - title: Statistical Analysis
       items:
         - Time Series Analysis, Network Analysis, Causal Inference, Bayesian Inference
-    - title: Hadoop Ecosystem
+    - title: Distributed Computing
       items:
         - Spark, Pyspark, MapReduce
     - title: Spatial Analysis & Simulation
