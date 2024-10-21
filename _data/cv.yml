@@ -4,13 +4,13 @@
     - name: Name
       value: Mingming Cai
     - name: Email
-      value: mingmingcai306@gmail.com; mmcai@uw.edu
+      value: mingmingcai306@gmail.com
     - name: Label
       value: I am an AI enthusiast focusing on human-centered AI technologies and their impacts on social equity and sustainable living space.
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. in Urban Design and Planning
+    - title: Ph.D. in Urban Planning and Economics
       institution: University of Washington, Seattle
       year: 2020.9 -
       # description:
@@ -29,7 +29,7 @@
     - title: M.S. in Land Economics and Resources Management
       institution: Wuhan University
       year: 2017.9 - 2020.6
-    - title: B.E. in Earth and Geographic Information Science
+    - title: B.E. in Environmental Science & Land Resources Management
       institution: Wuhan University
       year: 2013.9 - 2017.6
 
@@ -49,6 +49,12 @@
 - title: Professional Experience
   type: time_table
   contents:
+    - title: Data Scientist Intern
+      institution: Amazon, Sunnyvale, CA
+      year: 2024.9 - 2024.12
+      description:
+        - Defined the research problems and designed the scientific solutions for the performance improvement on RAG system in enhancing LLM capabilities of responding to user queries to robotic assistants.
+        - Applied and extended state-of-art information retrieval techniques to improve RAG system in guiding robot responsive behavior, achieving an increase in Recall@K for context retrieval and a reduction in latency.
     - title: Data Analyst - Modeling Intern
       institution: Chicago Metropolitan Agency for Planning, Chicago, IL
       year: 2023.6 - 2023.8
