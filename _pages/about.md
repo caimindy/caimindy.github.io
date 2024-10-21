@@ -16,15 +16,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. candidate in Urban Planning at the University of Washington, concurrently pursuing an M.S. in Statistics. I began my academic journey at Wuhan University, where I earned a B.Eng. degree in Earth and Geographic Information Science. Subsequently, I obtained a Master's degree in Land Economics and Resources Management from Wuhan University and served as a research assistant at the <a href='https://sites.utexas.edu/uil/'>UT Urban Information Lab</a>. If you would like to know more about me, please feel free to contact me at mmcai@uw.edu.
+I am a Ph.D. candidate in Transportation Economics and Planning at the University of Washington, concurrently pursuing an M.S. in Statistics. I began my academic journey at Wuhan University, where I earned a B.Eng. degree in Environmental Science & Land Resources Management. Subsequently, I obtained a Master's degree in Land Economics and Resources Management from Wuhan University and served as a research assistant at the <a href='https://sites.utexas.edu/uil/'>UT Urban Information Lab</a>. If you would like to know more about me, please feel free to contact me at mmcai@uw.edu.
 
 <br/><br/>
 
 ### Research Interests
 
 <ul>
-    <li>Responsible AI (Interpretability, Fairness, Robustness)</li>
-    <li>Generative AI and Synthetic Data</li>
+    <li>Responsible AI (Interpretability, Fairness)</li>
+    <li>Generative AI and Safety</li>
     <li>Spatiotemporal Data Mining</li>
     <li>Time Series Analysis</li>
     <li>Social Equity</li>
